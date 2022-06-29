@@ -1,0 +1,4 @@
+﻿  WinTris_v2.cpp
+D:\Progetti VS\WinTris_v2\WinTris_v2.cpp(68,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+D:\Progetti VS\WinTris_v2\WinTris_v2.cpp(146,4): error C3861: 'AggiornaGiocatore': identificatore non trovato
+D:\Progetti VS\WinTris_v2\WinTris_v2.cpp(154,4): error C3861: 'AggiornaGiocatore': identificatore non trovato

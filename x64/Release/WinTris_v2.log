@@ -1,0 +1,7 @@
+﻿  WinTris_v2.cpp
+D:\Progetti VS\WinTris_v2\WinTris_v2.cpp(112,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  WinTris_v2.vcxproj -> D:\Progetti VS\WinTris_v2\x64\Release\WinTris_v2.exe
